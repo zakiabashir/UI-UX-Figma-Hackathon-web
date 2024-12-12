@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600&display=swap'); */
+/* Vector 14 */
+.discount{
+position: absolute;
+width: 136.56px;
+height: 138.49px;
+left: 1584px;
+top: 282px;
+
+background: #00C1FE;
+border: 1px solid #00C1FE;
+}
